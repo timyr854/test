@@ -91,10 +91,10 @@ body {
 /* Главный экран */
 .hero {
     background: linear-gradient(rgba(44, 62, 80, 0.8), rgba(44, 62, 80, 0.8)), 
-                url('/images/87d53394fb24c547035db273600a9185.jpg') no-repeat center center/cover;
+                url('https://turkcemalumatlar.com/wp-content/uploads/2025/08/manevitazminatnedir.jpg') no-repeat center center/cover;
     color: white;
     padding: 180px 0 100px;
-    margin-top: 70px; /* Чтобы компенсировать фиксированную шапку */
+    margin-top: 70px;
     text-align: center;
 }
 
